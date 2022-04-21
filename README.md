@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontendMentor Solution URL](https://your-solution-url.com)
+- Solution URL: [FrontendMentor Solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-using-html-and-css-HkX_B7krc)
 - Live Site URL: [GitHub Pages](https://sikta2002.github.io/3-column-preview-card-component/)
 
 ### Built with
