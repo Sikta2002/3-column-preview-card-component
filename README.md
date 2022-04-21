@@ -24,16 +24,17 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-###Desktop
+### Desktop
 ![./desktop-screenshot.jpeg](./desktop-screenshot.jpeg)
 
-###Mobile
-
+### Mobile
+![./mobile-screenshot_1.jpeg](./mobile-screenshot_1.jpeg)
+![./mobile-screenshot_2.jpeg](./mobile-screenshot_2.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor Solution URL](https://your-solution-url.com)
+- Live Site URL: [GitHub Pages](https://sikta2002.github.io/3-column-preview-card-component/)
 
 ### Built with
 
